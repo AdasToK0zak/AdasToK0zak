@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam</h1>
+<h1 align="center">Hi 👋, I'm chuj</h1>
 <h3 align="center">A Junior C#/C++ developer from Poland</h3>
 
 - 🔭 I’m currently working on **FiveM Memory Cheat**
