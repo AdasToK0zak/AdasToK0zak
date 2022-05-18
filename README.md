@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm chuj</h1>
 <h3 align="center">A Junior C#/C++ developer from Poland</h3>
 
-- 🔭 I’m currently working on **FiveM Memory Cheat**
+- 🔭 I’v made **FiveM Cheat**  https://discord.gg/bBAszJV8vg
 
 - 🌱 I’m currently learning **JavaScript, Https**
 
